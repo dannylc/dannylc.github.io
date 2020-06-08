@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Workshops
-excerpt: "Recent Workshops"
+title: Projects
+excerpt: "Recent Projects"
 ---
 
 # Workshops I've Put Together
