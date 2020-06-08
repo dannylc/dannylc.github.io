@@ -17,8 +17,11 @@ Electrónics Engineer
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2016`
+Premio Universidad de Concepción, Universidad de Concepción.
+
+`2016`
+Premio Facultad de Ingeniería. Universidad de Concepción.
 
 ## Publications
 
@@ -35,10 +38,17 @@ Article Title, Journal Title
 
 ## Presentations
 
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
+`2019`
+On the Selection of Variables for Quantitative Laser-Induced Breakdown Spectroscopy using Principal Component Analysis and Artificial Neural Networks, IV EIQ, Brasil, Porto Alegre,
 
+`2019`
+On the Selection of Variables for Quantitative Multi-Elemental LIBS using Artificial Neural Networks. PITTCON, USA, Philadelphia.
 
+`2018`
+A Comparison of Three Optimizing Control Strategies Applied to PV/T Systems. WCPEC-7, USA, Hawaii.
+
+`2017`
+Monitoring Soiling Rates in Thermal Solar Collectors by Adaptive Observers. SBAI 2017, Brasil, Porto Alegre.
 
 <!-- ### Footer
 
