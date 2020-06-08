@@ -13,7 +13,7 @@ PhD in Electrical Engineering
 
 `2010 - 2016`
 __University of Concepción__
-Electrónics Engineer
+Electronics Engineer
 
 ## Awards
 
