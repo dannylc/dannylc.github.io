@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Variable Selection
+title: Variable Selection in LIBS
 excerpt: "Recent Projects"
 ---
 
