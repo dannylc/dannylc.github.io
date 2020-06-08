@@ -14,4 +14,4 @@ In this work, we address starting up a system that allows to measure the moistur
 
 The system consists of a vertical column, which has moisture sensors arranged at different heights, which output a voltage to a programmable data acquisition and monitoring system cDAQ in a LabVIEW environment, which allows data to be viewed using an HMI.
 
-Further details can be found at the [github repository](https://github.com/dannylc/Moisture-Sensor-MAS-1)
+Further details can be found at [this github repository](https://github.com/dannylc/Moisture-Sensor-MAS-1)
