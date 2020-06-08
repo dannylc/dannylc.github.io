@@ -6,4 +6,4 @@ excerpt: "Recent Projects"
 
 # Projects I've Put Together
 
-- [LIBS Variable Selection](https://github.com/dannylc/LIBS-Variable-Selection)
+- [LIBS Variable Selection](https://dannylc.github.io/project/LIBS)
