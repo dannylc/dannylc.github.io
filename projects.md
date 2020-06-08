@@ -4,6 +4,6 @@ title: Projects
 excerpt: "Recent Projects"
 ---
 
-# Workshops I've Put Together
+# Projects I've Put Together
 
-- [GitHub Pages Workshop](https://github.com/BioData-Club/githubPagesTutorial)
+- [LIBS Variable Selection](https://github.com/dannylc/LIBS-Variable-Selection)
