@@ -39,7 +39,7 @@ Article Title, Journal Title
 ## Presentations
 
 `2019`
-On the Selection of Variables for Quantitative Laser-Induced Breakdown Spectroscopy using Principal Component Analysis and Artificial Neural Networks, IV EIQ, Brasil, Porto Alegre,
+On the Selection of Variables for Quantitative Laser-Induced Breakdown Spectroscopy using Principal Component Analysis and Artificial Neural Networks, IV EIQ, Brasil, Porto Alegre.
 
 `2019`
 On the Selection of Variables for Quantitative Multi-Elemental LIBS using Artificial Neural Networks. PITTCON, USA, Philadelphia.
