@@ -11,3 +11,6 @@ RFID or Radio Frequency Identification is a remote data storage and retrieval sy
 RFID tags are small, sticker-like devices that can be attached to or incorporated into a product, animal, or person. They contain antennas to allow them to receive and respond to radio frequency requests from an RFID emitter-receiver. Passive tags do not require internal power, while active tags do. One of the advantages of using radio frequency (instead of, for example, infrared) is that no direct vision is required between emitter and receiver.
 
 In this work, Chafon RFID sensors are configured, in C# language, connecting the records to a database.
+
+The source code used in this work can be found at [this github repository](https://github.com/dannylc/RFID-READER-WRITER)
+
