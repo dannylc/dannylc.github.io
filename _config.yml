@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Danny Luarte
   avatar: bio-photo.jpg
-  bio: "This is a sample Jekyll website."
+  bio: "This is my personal Jekyll website."
   email: dannylc.pes5@gmail.com
   # Do not include the @ symbol in your Twitter username
   twitter:
