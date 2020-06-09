@@ -1,6 +1,6 @@
 ---
 layout: page
-excerpt: "About Me..."
+excerpt: "About Me"
 ---
 
 I am a PhD student at the University of Concepción.
