@@ -12,3 +12,4 @@ I am a PhD student at the University of Concepción.
 - Data Fusion
 - Language Learning
 - [Website Design](https://the11online.com)
+- [eSports](https://www.youtube.com/channel/UClxjKVfJIYbHPnohFXxihBg)
