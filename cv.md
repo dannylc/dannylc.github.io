@@ -18,7 +18,7 @@ Electronics Engineer
 ## Awards
 
 `2016`
-Premio Universidad de Concepción, Universidad de Concepción.
+Premio Universidad de Concepción. Universidad de Concepción.
 
 `2016`
 Premio Facultad de Ingeniería. Universidad de Concepción.
