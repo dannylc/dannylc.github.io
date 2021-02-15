@@ -29,11 +29,8 @@ Premio Facultad de Ingeniería. Universidad de Concepción.
 
 ### Journals
 
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
+`2021`
+Combining prior knowledge with input selection algorithms for quantitative analysis by neural network in laser induced breakdown spectroscopy, Analytical Methods.
 
 
 ## Presentations
